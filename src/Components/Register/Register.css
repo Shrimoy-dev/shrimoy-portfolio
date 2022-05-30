@@ -1,0 +1,62 @@
+.page-title h5{
+    color: #15547d;
+    font-size: 18px;
+}
+
+.page-title p{
+    font-size: 14px;
+}
+
+.reg-form {
+    width: 100%;
+    float: left;
+    padding: 40px ;
+    min-height: 630px;
+    background: #081116;
+}
+
+.reg-form p {
+    color: #fff;
+    display: inline;
+    font-size: 14px;
+    padding: 5px 3px;
+    margin: 8px 0;
+}
+
+.reg-form input{
+    width: 100%;
+    border-radius: 25px;
+    padding: 8px 14px;
+    outline: none;
+    border: 1px solid #15547d;
+    color: #15547d;
+}
+.form-img {
+    width: 100%;
+    float: left;
+    background: url('../../../public/images/form-bg.jpg') no-repeat  center center ; 
+    color: #fff;
+    text-align: left;
+    min-height: 630px;
+}
+
+.form-img img {
+    width: 200px;
+    height: 200px;
+    margin-left: 10px;
+}
+.form-img h1{
+    padding: 40px 0 0 40px;
+    font-size: 80px;
+    font-weight: 400;
+}
+
+.form-img p{
+    padding: 10px 0 0 40px;
+    font-size: 14px;
+    line-height: 22px;
+}
+.err{
+    color: #fff;
+    font-size: 12px;
+}

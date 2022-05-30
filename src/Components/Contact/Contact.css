@@ -1,0 +1,21 @@
+.cont-gif {
+    width: 350px;
+    height: 350px;
+}
+
+.contact-form input, textarea {
+    width: 100%;
+    display: block;
+    margin: 25px 0;
+    padding: 7px 15px;
+    border-radius: 25px;
+    outline: none;
+    border: 1px solid rgb(122, 122, 122);
+}
+
+.cont-err {
+    color: #ff000f;
+    font-size: 12px;
+    padding: 0;
+    margin: 0;
+}

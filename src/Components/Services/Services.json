@@ -1,0 +1,40 @@
+{
+    "Services":[
+        {
+            "serv_id":"S01",
+            "serv_title":"Design",
+            "serv_icon":"../../../../images/web-design.png",
+            "serv_data":"Ullamco eiusmod consequat id ad cupidatat. Commodo irure ut tempor velit amet proident eiusmod pariatur irure ex voluptate duis labore."
+        },
+        {
+            "serv_id":"S02",
+            "serv_title":"Marketing",
+            "serv_icon":"../../../../images/megaphone.png",
+            "serv_data":"Ullamco eiusmod consequat id ad cupidatat. Commodo irure ut tempor velit amet proident eiusmod pariatur irure ex voluptate duis labore."
+        },
+        {
+            "serv_id":"S03",
+            "serv_title":"Photography",
+            "serv_icon":"../../../../images/photo.png",
+            "serv_data":"Ullamco eiusmod consequat id ad cupidatat. Commodo irure ut tempor velit amet proident eiusmod pariatur irure ex voluptate duis labore."
+        },
+        {
+            "serv_id":"S04",
+            "serv_title":"Branding",
+            "serv_icon":"../../../../images/brand.png",
+            "serv_data":"Ullamco eiusmod consequat id ad cupidatat. Commodo irure ut tempor velit amet proident eiusmod pariatur irure ex voluptate duis labore."
+        },
+        {
+            "serv_id":"S05",
+            "serv_title":"Development",
+            "serv_icon":"../../../../images/devel.png",
+            "serv_data":"Ullamco eiusmod consequat id ad cupidatat. Commodo irure ut tempor velit amet proident eiusmod pariatur irure ex voluptate duis labore."
+        },
+        {
+            "serv_id":"S06",
+            "serv_title":"SEO",
+            "serv_icon":"../../../../images/seo.png",
+            "serv_data":"Ullamco eiusmod consequat id ad cupidatat. Commodo irure ut tempor velit amet proident eiusmod pariatur irure ex voluptate duis labore."
+        }
+    ]
+}

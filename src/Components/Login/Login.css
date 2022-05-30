@@ -1,0 +1,73 @@
+.cont{
+
+    width: 85%;
+    margin: 0 auto;
+}
+
+.login-page {
+    padding: 40px 0;
+
+    color: #fff;
+    float: left;
+    width: 100%;
+    width: 100%;
+    float: left;
+    background: url('../../../public/images/exp-bg.jpg') no-repeat  center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
+
+.my-form{
+    width: 85%;
+    margin: 0 auto;
+    background: #fff;
+    -webkit-box-shadow: 0px 0px 23px 0px rgba(0,0,0,0.53);
+-moz-box-shadow: 0px 0px 23px 0px rgba(0,0,0,0.53);
+box-shadow: 0px 0px 23px 0px rgba(0,0,0,0.53);
+position: relative;
+z-index: 200;
+bottom: 30px;
+}
+
+.my-form input {
+    width: 100%;
+    border-radius: 25px;
+    padding: 8px 14px;
+    outline: none;
+    border: 1px solid #15547d;
+    color: #15547d;
+}
+
+.login-card{
+    width: 35%;
+    margin: 0 auto;
+    background: rgba(255,255,255,01)
+}
+
+.login-logo {
+    width: 100%;
+    padding:17px 0 35px 0;
+    background: #527f9d;
+    margin: 0 auto;
+}
+
+.login-logo img {
+    width: 100px;
+    height: 100px;
+}
+
+.err-msg {
+    color: rgb(207, 21, 21);
+    font-size: 12px;
+}
+
+@media only screen and (max-width: 996px) {
+  .login-card {
+      width: 100%;
+  }
+
+}

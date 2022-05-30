@@ -1,0 +1,23 @@
+{
+    "Education":[
+        {
+            "edu_id":"E01",
+            "edu_title":"Specialize App Design, Harvard University",
+            "edu_duration":"2012",
+            "edu_desc":"Pariatur nostrud magna qui adipisicing reprehenderit Lorem elit incididunt et. Do consequat ullamco id cupidatat nisi pariatur consectetur eiusmod eu ut. Ullamco laboris culpa labore ipsum aute enim voluptate laboris nulla magna eiusmod ea labore aliquip."
+        },
+        {
+            "edu_id":"E02",
+            "edu_title":"Master of Design, University of California",
+            "edu_duration":"2010",
+            "edu_desc":"Pariatur nostrud magna qui adipisicing reprehenderit Lorem elit incididunt et. Do consequat ullamco id cupidatat nisi pariatur consectetur eiusmod eu ut. Ullamco laboris culpa labore ipsum aute enim voluptate laboris nulla magna eiusmod ea labore aliquip."
+        },
+        {
+            "edu_id":"E03",
+            "edu_title":"Bachelor of Science, Standford University",
+            "edu_duration":"2006",
+            "edu_desc":"Pariatur nostrud magna qui adipisicing reprehenderit Lorem elit incididunt et. Do consequat ullamco id cupidatat nisi pariatur consectetur eiusmod eu ut. Ullamco laboris culpa labore ipsum aute enim voluptate laboris nulla magna eiusmod ea labore aliquip."
+        }
+        
+    ]
+}

@@ -1,0 +1,91 @@
+.page-title h5{
+    color: #15547d;
+    font-size: 18px;
+}
+
+.page-title p{
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.exp {
+    width: 100%;
+    float: left;
+    background: url('../../../public/images/exp-bg.jpg') no-repeat  center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+}
+
+.exp-title {
+    color: #fff;
+}
+
+.exp h3{
+    color: #fff;
+    border-bottom: 1px solid #ccc;
+    text-align: left;
+    font-size: 17px;
+    padding: 10px 15px;
+}
+
+.exp-card{
+    width: 100%;
+    padding: 10px 15px;
+    margin: 20px auto;
+    float: left;
+    text-align: left;
+   
+}
+
+.exp-time {
+    border: 1px solid #fff;
+    color: #fff;
+  
+    width: 20%;
+}
+
+.exp-time h6{
+    text-align: center;
+    padding: 5px 0 0 0;
+    font-size: 15px;
+}
+
+.exp-card h5{
+    font-size: 16px;
+    color: #fff;
+    padding: 10px 0;
+}
+
+.exp-card p{
+    color: rgb(204, 204, 204);
+    font-size: 14px;
+    line-height: 22px;
+}
+
+.skill h4{
+    color: #15547d;
+}
+
+.skill-card{
+    float: left;
+    width: 100%;
+    padding: 10px 5px;
+    margin: 8px 0;
+    text-align: left;
+    font-size: 14px;
+}
+
+.progress{
+    background: none;
+    border-radius: 0;
+}
+
+.progress-bar{
+    background: #3494E6;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #EC6EAD, #3494E6);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #EC6EAD, #3494E6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    height: 7px;
+}

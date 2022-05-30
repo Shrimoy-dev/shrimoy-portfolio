@@ -1,0 +1,19 @@
+.test-card {
+    text-align: center;
+    
+}
+
+.test-card h5{
+    color: #15547d;
+}
+
+.test-card p{
+    padding: 20px 30px;
+    font-size: 15px;
+    color: rgb(105, 105, 105);
+}
+
+.test-card img{
+    width: 100px;
+    height: 100px;
+}

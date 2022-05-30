@@ -1,0 +1,24 @@
+{
+    "Experiences":[
+        {
+            "exp_id": "X1",
+            "exp_title":"Fulltime Freelancer",
+            "exp_duration":"2018-now",
+            "exp_desc":"Pariatur nostrud magna qui adipisicing reprehenderit Lorem elit incididunt et. Do consequat ullamco id cupidatat nisi pariatur consectetur eiusmod eu ut. Ullamco laboris culpa labore ipsum aute enim voluptate laboris nulla magna eiusmod ea labore aliquip."
+        },
+        {
+            "exp_id": "X2",
+            "exp_title":"Creative Director at Pixar Studiocation",
+            "exp_duration":"2014-2018",
+            "exp_desc":"Pariatur nostrud magna qui adipisicing reprehenderit Lorem elit incididunt et. Do consequat ullamco id cupidatat nisi pariatur consectetur eiusmod eu ut. Ullamco laboris culpa labore ipsum aute enim voluptate laboris nulla magna eiusmod ea labore aliquip."
+        },
+        {
+            
+            "exp_id": "X3",
+            "exp_title":"Web Designer At Microsoft",
+            "exp_duration":"2012-2014",
+            "exp_desc":"Pariatur nostrud magna qui adipisicing reprehenderit Lorem elit incididunt et. Do consequat ullamco id cupidatat nisi pariatur consectetur eiusmod eu ut. Ullamco laboris culpa labore ipsum aute enim voluptate laboris nulla magna eiusmod ea labore aliquip."
+        }
+        
+    ]
+}
