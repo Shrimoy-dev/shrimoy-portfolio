@@ -43,7 +43,7 @@ const formValidate= (formValue) => {
     return errors;
 }
 export default function Register() {
-    const navigateTo = useFormik()
+    const navigateTo = useNavigate()
     const formik = useFormik({
           initialValues:{
               'userName':'',
